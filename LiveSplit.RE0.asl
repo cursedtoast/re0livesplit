@@ -15,7 +15,7 @@ split
 
 isLoading
 {
-    return current.time < old.time;
+    return true;
 }
 
 gameTime
